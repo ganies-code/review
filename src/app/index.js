@@ -1,1 +1,3 @@
-alert('a');
+(function(){
+   alert(0);
+})();
